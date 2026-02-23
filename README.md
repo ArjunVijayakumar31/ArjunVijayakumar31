@@ -1,5 +1,8 @@
-
-
+<div align="center">
+  <a href="https://github.com/ArjunVijayakumar31">
+    <img src="assets/img.gif" width="900"/>
+  </a>
+</div>
 
 <h3 align="center">I am a BCA graduate exploring Data Science, AI, and Cloud technologies.</h3>
 
