@@ -1,8 +1,4 @@
-<div align="center">
 
-![Hello World, I'm Arjun!](assests/header.gif)
-
-</div>
 
 
 <h3 align="center">I am a BCA graduate exploring Data Science, AI, and Cloud technologies.</h3>
