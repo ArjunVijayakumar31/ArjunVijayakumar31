@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ArjunVijayakumar31">
-    <img src="assets/header.gif">
+    <img src="assets/hello.gif">
   </a>
 </div>
 
